@@ -6,7 +6,7 @@ const flavors = prompt ("Please enter a list of comma seperated flavors.")
 const inputFlavors = flavors.split(" , ")
 
 //create object for flavors
-const froy = {
+const froye = {
 
 };
 
